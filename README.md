@@ -15,3 +15,9 @@
 ![image](https://user-images.githubusercontent.com/112489130/199331271-c27a88b2-3c27-4708-8865-e4dd882aea74.png)
 ## O QUE É?
 #### Conceitos de formatação, semântica, SEO e acessibilidade, ou seja, os 4 pilares do código HTML limpo. Exemplos que estão relacionados a cada um desses pilares.
+<hr>
+
+# [Pro GIT - Tudo que você precisa saber.pdf](https://github.com/mikaelmonteirodev/Team07DC-ClassCollection/files/9913715/Pro.GIT.-.Tudo.que.voce.precisa.saber.pdf)
+![image](https://user-images.githubusercontent.com/112489130/199332653-3df7b788-50e2-4aaf-9750-a9fe7ab35ca4.png)
+## O QUE É?
+#### Livrinho massa pra aprender GIT, passei a tarde estudando!
