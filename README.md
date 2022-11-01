@@ -21,3 +21,11 @@ Conceitos de formatação, semântica, SEO e acessibilidade, ou seja, os 4 pilar
 ![image](https://user-images.githubusercontent.com/112489130/199332653-3df7b788-50e2-4aaf-9750-a9fe7ab35ca4.png)
 ## O QUE É?
 Livrinho massa pra aprender GIT.
+<hr>
+
+# Roadmap
+https://roadmap.sh/frontend ![image](https://user-images.githubusercontent.com/112489130/199334146-3338ff13-1b5e-412a-ad25-1a35e3913b39.png)
+https://roadmap.sh/backend ![image](https://user-images.githubusercontent.com/112489130/199334186-4a15b40a-db2e-4048-b260-738eea9bb2c7.png)
+## O QUE É?
+Guia passo a passo para se tornar um desenvolvedor de Front/Back-end moderno em 2022.
+<hr>
