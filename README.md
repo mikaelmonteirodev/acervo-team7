@@ -29,3 +29,9 @@ https://roadmap.sh/backend ![image](https://user-images.githubusercontent.com/11
 ## O QUE É?
 Guia passo a passo para se tornar um desenvolvedor de Front/Back-end moderno em 2022.
 <hr>
+
+# Lovel https://www.lovel.dev
+![image](https://user-images.githubusercontent.com/112489130/199335079-5e8f7605-c6b1-4c3d-babf-0d61e19356ee.png)
+## O QUE É?
+Recrute os melhores talentos techs para sua empresa e torne sua contratação mais rápida, assertiva e inclusiva.
+<hr>
