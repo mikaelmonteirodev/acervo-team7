@@ -1,7 +1,7 @@
 # Team07DC-ClassCollection
-<img width="50%" align="justify" src="https://user-images.githubusercontent.com/112489130/199324704-605a7e14-5dcb-412c-bd82-a8c6f4c87c24.gif"> </img>
-#### Collection of content given in the classroom or sent by colleagues during the Dev Fullstack course at Digital College - Team07
-#### *(Acervo de conteúdos dados em sala de aula ou enviado por colegas durante o curso de Dev Fullstack na Digital College - Team07)*
+Collection of content given in the classroom or sent by colleagues during the Dev Fullstack course at Digital College - Team07
+*(Acervo de conteúdos dados em sala de aula ou enviado por colegas durante o curso de Dev Fullstack na Digital College - Team07)*
+<center> <img margin="auto" width="75%" src="https://user-images.githubusercontent.com/112489130/199324704-605a7e14-5dcb-412c-bd82-a8c6f4c87c24.gif"> </img> </center>
 <hr>
 
 # ![Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0)
