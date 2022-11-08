@@ -23,13 +23,13 @@ Livrinho massa pra aprender GIT.
 <hr>
 
 # Roadmap
-https://roadmap.sh/frontend ![image](https://user-images.githubusercontent.com/112489130/199334146-3338ff13-1b5e-412a-ad25-1a35e3913b39.png)
-https://roadmap.sh/backend ![image](https://user-images.githubusercontent.com/112489130/199334186-4a15b40a-db2e-4048-b260-738eea9bb2c7.png)
+[Front-End](https://roadmap.sh/frontend) ![image](https://user-images.githubusercontent.com/112489130/199334146-3338ff13-1b5e-412a-ad25-1a35e3913b39.png)
+[Back-End](https://roadmap.sh/backend) ![image](https://user-images.githubusercontent.com/112489130/199334186-4a15b40a-db2e-4048-b260-738eea9bb2c7.png)
 ### O QUE É?
 Guia passo a passo para se tornar um desenvolvedor de Front/Back-end moderno em 2022.
 <hr>
 
-# Lovel https://www.lovel.dev
+# [Lovel](https://www.lovel.dev)
 ![image](https://user-images.githubusercontent.com/112489130/199335079-5e8f7605-c6b1-4c3d-babf-0d61e19356ee.png)
 ### O QUE É?
 Recrute os melhores talentos techs para sua empresa e torne sua contratação mais rápida, assertiva e inclusiva.
