@@ -46,3 +46,24 @@ Pagina de busca para desenvolvedores (O Google dos Devs).
 ### O QUE É?
 Aplicativo desenvolvido para ajudar os iniciantes a aprender os poderosos conceitos por trás do branching com o git.
 <hr>
+
+# [Code.org](https://studio.code.org)
+![image](https://user-images.githubusercontent.com/112489130/200464624-82c8b427-9ea2-471e-9699-6acf81d7137d.png)
+### O QUE É?
+Aprenda logica de programação por meio de jogos divertidos. Code.org® é uma organização sem fins lucrativos dedicada a expansão do acesso à ciência da computação. 
+<hr>
+
+# [FreeCodeCamp](https://www.freecodecamp.org)
+![image](https://user-images.githubusercontent.com/112489130/200465549-5251c77d-fcb2-4d51-90c8-903838937aed.png)
+### O QUE É?
+Aqui você aprenderá a codificar concluindo desafios de codificação e construindo projetos. Você também ganhará certificações verificadas ao longo do caminho.
+<hr>
+
+# [Duolingo](https://www.duolingo.com/)
+![image](https://user-images.githubusercontent.com/112489130/200465883-863b7609-13d9-4012-99be-7aa0b2e8a531.png)
+### O QUE É?
+O Duolingo é um aplicativo de celular que possibilita a aprendizagem de mais de 30 línguas. A proposta é que você se divirta aprendendo. Por isso, ele se parece com um jogo.
+<hr>
+
+
+
