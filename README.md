@@ -65,5 +65,9 @@ Aqui você aprenderá a codificar concluindo desafios de codificação e constru
 O Duolingo é um aplicativo de celular que possibilita a aprendizagem de mais de 30 línguas. A proposta é que você se divirta aprendendo. Por isso, ele se parece com um jogo.
 <hr>
 
-
+# [MDN Web Docs](https://developer.mozilla.org/pt-BR/)
+![image](https://user-images.githubusercontent.com/112489130/200466408-a262a53a-ed3a-4469-86c7-58c1e65a69f1.png)
+### O QUE É?
+O MDN Web Docs é um projeto colaborativo de código aberto que documenta tecnologias de plataforma da Web, incluindo CSS, HTML, JavaScript e APIs da Web. Também fornece um amplo conjunto de recursos de aprendizado para desenvolvedores e estudantes iniciantes.
+<hr>
 
