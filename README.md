@@ -4,6 +4,12 @@ Collection of content given in the classroom or sent by colleagues during the De
 <center> <img margin="auto" width="75%" src="https://user-images.githubusercontent.com/112489130/199324704-605a7e14-5dcb-412c-bd82-a8c6f4c87c24.gif"> </center>
 <hr>
 
+# [Git](https://git-scm.com)
+![image](https://user-images.githubusercontent.com/112489130/201090695-a50166e7-9f2e-4f87-ac66-974aaca77648.png)
+### O QUE É?
+Git é um sistema de controle de versão distribuído gratuito e de código aberto projetado para lidar com tudo, desde projetos pequenos a muito grandes com velocidade e eficiência.
+<hr>
+
 # [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0)
 ![www conventionalcommits org](https://user-images.githubusercontent.com/112489130/199321935-a0022976-8f6d-4674-bb0a-fce2f35b9ca2.png)
 ### O QUE É?
