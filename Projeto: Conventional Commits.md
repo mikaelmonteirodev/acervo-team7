@@ -19,18 +19,26 @@ Nos sites abaixo você pode encontrar mais detalhes sobre como funciona essa con
 - Criar card no Kanban do Projeto, com o nome: " Conventional Commit: *Tópico sugerido* ";
 - (Com o Card criado significa que você criou uma ISSUE dentro do repositório "Courses" do Grupo dcTeam7 com o nome acima);
 - A seguir, você deve criar um BRANCH para poder fazer uma alteração nessa ISSUE que você criou;
+
+<img src="https://user-images.githubusercontent.com/112489130/200988718-5d1378e5-409f-4d2e-bf11-2c8574aa92e0.png" width="300px">
+
 - Com a BRANCH já criada, tendo o mesmo nome da sua ISSUE, vá ao GITPOD para fazer uma alteração nesta BRANCH;
 - Dentro do GITPOD inclua o conteúdo da sua ISSUE (do seu CARD) caso ainda não esteja aparecendo;
 - Em seguida altere o nome do Arquivo para "doc: nome da issue", envie e sincronize o commit;
+
+<img src="https://user-images.githubusercontent.com/112489130/200988742-2d084ec5-f79f-4232-94da-33973c885c85.png" width="300px">
+
 - Feito isso, saia do Gitpod e volte para a sua Branch no Github;
 - Você verá que ele está sugerindo a criação de uma PULL REQUEST;
-- Crie a PULL REQUEST;
+- Crie a PULL REQUEST e inclua no comentário dela o comando Close + o número da ISSUE que vc criou antecedida de "#"; 
 - Dentro da PR marque pelo 02 pessoas para revisar sua PR: O Prof. Abraão e + outra pessoa.;
 - Marque-se como Assignee;
+                                                                                                                      
+<img src="https://user-images.githubusercontent.com/112489130/200988755-d8db34a6-3603-44c6-8d23-7aa9386144e2.png" width="300px">
+
 - A pessoa marcada como REVIEWERS do seu PR deverá analisar e fazer uma sugestão (Request Changes) para seu conteúdo na aba de FILES CHANGED;
 - Você responde a sugestão (Reply Coment) e acata (ou não) a recomendação feita;
 - Depois disso o seu revisor deve Aprovar sua PR;
 - E pronto. Só isso 😄
-
 
 ## Bom trabalho!
