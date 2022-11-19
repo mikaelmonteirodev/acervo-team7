@@ -4,6 +4,12 @@ Collection of content given in the classroom or sent by colleagues during the De
 <center> <img margin="auto" width="50%" src="https://user-images.githubusercontent.com/112489130/199324704-605a7e14-5dcb-412c-bd82-a8c6f4c87c24.gif"> </center>
 <hr>
 
+# [Git and Github for beginners](https://www.freecodecamp.org/news/git-and-github-for-beginners)
+![image](https://user-images.githubusercontent.com/112489130/202868134-8117b325-9e46-4d04-ab10-0fc39a4390f9.png)
+### O QUE É?
+Este tutorial ajudará você a entender o que são Git e controle de versão, os comandos básicos do Git que você precisa saber, como usar seus recursos para aumentar a eficiência do trabalho e como estender esses recursos usando o GitHub.
+<hr>
+
 # [Git](https://git-scm.com)
 ![image](https://user-images.githubusercontent.com/112489130/201090695-a50166e7-9f2e-4f87-ac66-974aaca77648.png)
 ### O QUE É?
