@@ -4,6 +4,12 @@ Collection of content given in the classroom or sent by colleagues during the De
 <center> <img margin="auto" width="50%" src="https://user-images.githubusercontent.com/112489130/199324704-605a7e14-5dcb-412c-bd82-a8c6f4c87c24.gif"> </center>
 <hr>
 
+# [Exercism.org](https://exercism.org)
+![image](https://user-images.githubusercontent.com/112489130/203058738-d1cb9812-aa22-40af-a777-8ee46d37dd20.png)
+### O QUE É?
+O Exercism é uma plataforma de codificação online, de código aberto e gratuita que oferece prática de código e orientação em 50 linguagens de programação diferentes.
+<hr>
+
 # [Git and Github for beginners](https://www.freecodecamp.org/news/git-and-github-for-beginners)
 ![image](https://user-images.githubusercontent.com/112489130/202868134-8117b325-9e46-4d04-ab10-0fc39a4390f9.png)
 ### O QUE É?
