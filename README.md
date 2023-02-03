@@ -3,6 +3,12 @@ Acervo de conteúdos dados em sala de aula ou enviado por colegas durante o curs
 <center> <img margin="auto" width="50%" src="https://user-images.githubusercontent.com/112489130/199324704-605a7e14-5dcb-412c-bd82-a8c6f4c87c24.gif"> </center>
 <hr>
 
+### [JSdoc](https://jsdoc.app)
+![image](https://user-images.githubusercontent.com/112489130/216498837-227780e1-e40d-4fa4-927e-ce022617de84.png)
+### O QUE É?
+JSDoc é uma linguagem de marcação usada para anotar arquivos de código-fonte JavaScript. Usando comentários contendo JSDoc, os programadores podem adicionar documentação descrevendo a interface de programação de aplicativos do código que estão criando.
+<hr>
+
 ### [Day.JS](https://day.js.org/en/)
 ![image](https://user-images.githubusercontent.com/112489130/216497951-58213137-474b-4395-a463-95146e66cde8.png)
 ### O QUE É?
