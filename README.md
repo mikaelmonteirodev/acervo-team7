@@ -3,6 +3,12 @@ Acervo de conteúdos dados em sala de aula ou enviado por colegas durante o curs
 <center> <img margin="auto" width="50%" src="https://user-images.githubusercontent.com/112489130/199324704-605a7e14-5dcb-412c-bd82-a8c6f4c87c24.gif"> </center>
 <hr>
 
+### [Day.JS](https://day.js.org/en/)
+![image](https://user-images.githubusercontent.com/112489130/216497951-58213137-474b-4395-a463-95146e66cde8.png)
+### O QUE É?
+Day.js é uma biblioteca JavaScript minimalista que analisa, valida, manipula e exibe datas e horas para navegadores modernos com uma API amplamente compatível com Moment.js.
+<hr>
+
 ### [StoryBook](https://storybook.js.org)
 ![image](https://user-images.githubusercontent.com/112489130/216495251-8df11274-7af1-4fbc-b4f3-a6812238e7cb.png)
 ### O QUE É?
