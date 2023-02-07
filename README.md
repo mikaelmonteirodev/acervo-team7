@@ -8,6 +8,7 @@ Acervo de conteúdos dados em sala de aula ou enviado por colegas durante o curs
 ![image](https://user-images.githubusercontent.com/112489130/217243224-f2cb72aa-f8ee-4147-b2df-64c570bac052.png)
 ### O QUE É?
 O ESLint é uma ferramenta de análise de código que, juntamente com a sua extensão de mesmo nome disponível no VSCode, permite identificar erros quanto ao padrão de escrita que definimos.
+<hr>
 
 ### [JSdoc](https://jsdoc.app)
 ![image](https://user-images.githubusercontent.com/112489130/216498837-227780e1-e40d-4fa4-927e-ce022617de84.png)
