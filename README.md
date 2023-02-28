@@ -4,6 +4,12 @@ Acervo de conteúdos dados em sala de aula ou enviado por colegas durante o curs
 <center> <img margin="auto" width="50%" src="https://user-images.githubusercontent.com/112489130/199324704-605a7e14-5dcb-412c-bd82-a8c6f4c87c24.gif"> </center>
 <hr>
 
+### [Regex101](https://regex101.com)
+![image](https://user-images.githubusercontent.com/112489130/221964106-c674b48b-f46a-40c6-911f-41bf68960913.png)
+### O QUE É?
+O Regex 101 é uma ferramenta online que é utilizado por um grande número de pessoas desenvolvedoras para realizar testes de expressões regulares (Regex).
+<hr>
+
 ### [ESLint](https://eslint.org/)
 ![image](https://user-images.githubusercontent.com/112489130/217243224-f2cb72aa-f8ee-4147-b2df-64c570bac052.png)
 ### O QUE É?
