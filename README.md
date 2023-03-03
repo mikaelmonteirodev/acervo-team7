@@ -4,6 +4,12 @@ Acervo de conteúdos dados em sala de aula ou enviado por colegas durante o curs
 <center> <img margin="auto" width="50%" src="https://user-images.githubusercontent.com/112489130/199324704-605a7e14-5dcb-412c-bd82-a8c6f4c87c24.gif"> </center>
 <hr>
 
+### [CodePen](https://codepen.io)
+![image](https://user-images.githubusercontent.com/112489130/222603977-c56bb0d4-004d-4064-88e7-c86e9b957c41.png)
+### O QUE É?
+CodePen é uma comunidade online para testar e exibir trechos de código HTML, CSS e JavaScript criados pelo usuário. Ele funciona como um editor de código online e ambiente de aprendizado de código aberto, onde os desenvolvedores podem criar trechos de código, chamados de "canetas", e testá-los.
+<hr>
+
 ### [](https://www.tabnews.com.br/MatheusManuel/5-sites-para-treinar-o-front-end)
 ![image](https://user-images.githubusercontent.com/112489130/222278639-bff89903-f91c-4796-83ee-a7e6645cbc8d.png)
 ### O QUE É?
