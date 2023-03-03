@@ -10,7 +10,7 @@ Acervo de conteúdos dados em sala de aula ou enviado por colegas durante o curs
 CodePen é uma comunidade online para testar e exibir trechos de código HTML, CSS e JavaScript criados pelo usuário. Ele funciona como um editor de código online e ambiente de aprendizado de código aberto, onde os desenvolvedores podem criar trechos de código, chamados de "canetas", e testá-los.
 <hr>
 
-### [](https://www.tabnews.com.br/MatheusManuel/5-sites-para-treinar-o-front-end)
+### [TabNews](https://www.tabnews.com.br/MatheusManuel/5-sites-para-treinar-o-front-end)
 ![image](https://user-images.githubusercontent.com/112489130/222278639-bff89903-f91c-4796-83ee-a7e6645cbc8d.png)
 ### O QUE É?
 Então esse post foi criado para aqueles que estão começando no front end. Nesse post você vai encontrar sites para treinar o front end para você treinar o html css e javascript, geradores css, ferramentas de desenvolvimento web e muito mais! Boa Leitura.
