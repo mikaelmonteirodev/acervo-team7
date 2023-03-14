@@ -1,5 +1,5 @@
-# Team07DC-ClassCollection (Open Source) [Github](https://github.com/mikaelmonteirodev/Team07DC-ClassCollection)
-Acervo de conteúdos dados em sala de aula ou enviado por colegas durante o curso de Dev Fullstack na Digital College - Team07
+# ACERVO Team07 DC (Open Source) [Github](https://github.com/mikaelmonteirodev/Team07DC-ClassCollection)
+Conjunto de conteúdos dados em sala de aula ou enviado por colegas durante o curso de Dev Fullstack na Digital College - Team07
 *(Collection of content given in the classroom or sent by colleagues during the Dev Fullstack course at Digital College - Team07)*
 <center> <img margin="auto" width="50%" src="https://user-images.githubusercontent.com/112489130/199324704-605a7e14-5dcb-412c-bd82-a8c6f4c87c24.gif"> </center>
 <hr>
