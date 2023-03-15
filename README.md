@@ -15,6 +15,14 @@ O Phind (Antigo SayHello) diz ser um buscador especializado em Tecnologia e Prog
 
 <br>
 
+### [Pexels](https://www.pexels.com/pt-br/)
+![image](https://user-images.githubusercontent.com/112489130/225341048-a4478b8f-352b-4b02-a4cd-d888cd5fc4f3.png)
+### O QUE É?
+O Pexels oferece fotos profissionais de alta qualidade e inteiramente grátis licenciadas sob a licença do Pexels. Todas as fotos estão indexadas por tags, disponíveis pelo mecanismo de busca e podem ser visualizadas e baixadas.
+<hr>
+
+<br>
+
 ### [CodePen](https://codepen.io)
 ![image](https://user-images.githubusercontent.com/112489130/222603977-c56bb0d4-004d-4064-88e7-c86e9b957c41.png)
 ### O QUE É?
