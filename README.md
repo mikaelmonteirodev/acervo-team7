@@ -149,14 +149,6 @@ Recrute os melhores talentos techs para sua empresa e torne sua contratação ma
 
 <br>
 
-### [Say Hello](https://beta.sayhello.so)
-![image](https://user-images.githubusercontent.com/112489130/199729576-8a55e013-eb88-492c-8534-ce61934c6641.png)
-### O QUE É?
-Pagina de busca para desenvolvedores (O Google dos Devs).
-<hr>
-
-<br>
-
 ### [Learn Git Branching](https://learngitbranching.js.org/?locale=pt_BR)
 ![image](https://user-images.githubusercontent.com/112489130/200434812-cd6f17a5-dd94-41cb-a4fd-862715ae7e11.png)
 ### O QUE É?
