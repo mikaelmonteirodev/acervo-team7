@@ -7,7 +7,7 @@ Conjunto de conteúdos dados em sala de aula ou enviado por colegas durante o cu
 ### [Phind](https://www.phind.com)
 ![image](https://user-images.githubusercontent.com/112489130/225314679-22e13e6e-b0ac-478f-87ab-41aef606508e.png)
 ### O QUE É?
-O Phind diz ser um buscador especializado em Tecnologia e Programação onde, assim como o ChatGPT, ele utiliza uma Inteligência Artificial generativa para criar as respostas, porém com uma diferença: ele está "conectado na internet" e consegue consumir dados atualizados e consultar por resoluções de novos problemas na qual o atual modelo do ChatGPT ainda não acessou. Segundo os criadores, eles estão juntando o "melhor do ChatGPT com o melhor do Google".
+O Phind (Antigo SayHello) diz ser um buscador especializado em Tecnologia e Programação onde, assim como o ChatGPT, ele utiliza uma Inteligência Artificial generativa para criar as respostas, porém com uma diferença: ele está "conectado na internet" e consegue consumir dados atualizados e consultar por resoluções de novos problemas na qual o atual modelo do ChatGPT ainda não acessou. Segundo os criadores, eles estão juntando o "melhor do ChatGPT com o melhor do Google".
 *Fonte: Tabnews*
 <hr>
 
