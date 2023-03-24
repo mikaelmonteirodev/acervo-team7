@@ -6,6 +6,14 @@ Conjunto de conteúdos dados em sala de aula ou enviado por colegas durante o cu
 
 <br>
 
+### [React Docs](https://react.dev)
+![image](https://user-images.githubusercontent.com/112489130/227534615-8f252c91-a2a3-4f32-83a8-25b6b9de41a0.png)
+### O QUE É?
+Bem-vindo à documentação do React! Esta página fornecerá uma introdução aos 80% dos conceitos do React que você usará diariamente.
+<hr>
+
+<br>
+
 ### [Phind](https://www.phind.com)
 ![image](https://user-images.githubusercontent.com/112489130/225314679-22e13e6e-b0ac-478f-87ab-41aef606508e.png)
 ### O QUE É?
