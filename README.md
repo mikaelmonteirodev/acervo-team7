@@ -6,6 +6,14 @@ Conjunto de conteúdos dados em sala de aula ou enviado por colegas durante o cu
 
 <br>
 
+### [Vite](https://vitejs.dev)
+![image](https://user-images.githubusercontent.com/112489130/228398926-eb6e6148-b9e1-4502-8262-319364664499.png)
+### O QUE É?
+O Vite é uma ferramenta de compilação de frontend desenvolvida pela equipe do Vue. js. Foi criada como uma alternativa mais rápida e moderna ao webpack, que é a ferramenta de compilação mais utilizada no ecossistema do JavaScript. O Vite foi criado em 2020 pelo desenvolvedor Evan You, criador do Vue.
+<hr>
+
+<br>
+
 ### [React Docs](https://react.dev)
 ![image](https://user-images.githubusercontent.com/112489130/227534615-8f252c91-a2a3-4f32-83a8-25b6b9de41a0.png)
 ### O QUE É?
