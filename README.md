@@ -47,7 +47,7 @@ CodePen é uma comunidade online para testar e exibir trechos de código HTML, C
 
 <br>
 
-### [BootStrap]https://getbootstrap.com()
+### [BootStrap](https://getbootstrap.com)
 ![image](https://user-images.githubusercontent.com/112489130/228701492-cb2409b2-1ab3-4448-b86f-bcfb90f23905.png)
 ### O QUE É?
 Bootstrap é um framework web com código-fonte aberto para desenvolvimento de componentes de interface e front-end para sites e aplicações web, usando HTML, CSS e JavaScript, baseado em modelos de design para a tipografia, melhorando a experiência do usuário em um site amigável e responsivo.
