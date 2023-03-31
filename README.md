@@ -3,9 +3,12 @@ Conjunto de conteúdos dados em sala de aula ou enviado por colegas durante o cu
 *(Collection of content given in the classroom or sent by colleagues during the Dev Fullstack course at Digital College - Team07)*
 <center> <img margin="auto" width="50%" src="https://user-images.githubusercontent.com/112489130/199324704-605a7e14-5dcb-412c-bd82-a8c6f4c87c24.gif"> </center>
 
-# MENU (Localize a postagem por aqui)
+# MENU
+### (Localize a postagem por aqui)
 
-[MDX](https://github.com/mikaelmonteirodev/acervo-team7#mdx)
+- [MDX](#mdx)
+- [Vite](https://github.com/mikaelmonteirodev/acervo-team7#vite)
+- [React Docs](https://github.com/mikaelmonteirodev/acervo-team7#react-docs)
 
 <hr>
 
