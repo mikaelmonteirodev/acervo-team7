@@ -20,7 +20,7 @@ Conjunto de conteúdos dados em sala de aula ou enviado por colegas durante o cu
 - [Day JS](#day-js)
 - [Storybook](#storybook)
 - [ChatGPT](#chatgpt)
-- [Exercism.org](#exercism.org)
+- [Exercism](#exercism)
 - [Git and Github for beginners](#git-and-github-for-beginners)
 - [Git](#git)
 - [Conventional Commits](#conventional-commits)
@@ -184,7 +184,7 @@ GPT (Generative Pre-trained Transformer) é um modelo de linguagem treinado pela
 
 <br>
 
-### [Exercism.org](https://exercism.org)
+### [Exercism](https://exercism.org)
 ![image](https://user-images.githubusercontent.com/112489130/203058738-d1cb9812-aa22-40af-a777-8ee46d37dd20.png)
 ### O QUE É?
 O Exercism é uma plataforma de codificação online, de código aberto e gratuita que oferece prática de código e orientação em 50 linguagens de programação diferentes.
