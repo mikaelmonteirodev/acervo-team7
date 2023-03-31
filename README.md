@@ -6,6 +6,15 @@ Conjunto de conteúdos dados em sala de aula ou enviado por colegas durante o cu
 
 <br>
 
+### [MDX](https://mdxjs.com)
+![image](https://user-images.githubusercontent.com/112489130/229126814-607d1529-38e0-499f-b0fc-1fdb8f7a4004.png)
+### O QUE É?
+MDX permite que você use JSX em seu conteúdo markdown. Você pode importar componentes, como gráficos ou alertas interativos, e incorporá-los ao seu conteúdo. Isso torna a escrita de conteúdo de formato longo com componentes uma explosão.
+
+<hr>
+
+<br>
+
 ### [Vite](https://vitejs.dev)
 ![image](https://user-images.githubusercontent.com/112489130/228398926-eb6e6148-b9e1-4502-8262-319364664499.png)
 ### O QUE É?
