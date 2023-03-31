@@ -25,7 +25,7 @@ Conjunto de conteúdos dados em sala de aula ou enviado por colegas durante o cu
 - [Git](#git)
 - [Conventional Commits](#conventional-commits)
 - [Código Limpo para HTML](#código-limpo-para-html)
-- [Pro GIT - Tudo que você precisa saber.pdf](#pro-git---tudo-que-você-precisa-saber.pdf)
+- [Pro GIT - Tudo que você precisa saber](#pro-git---tudo-que-você-precisa-saber)
 - [Roadmap](#roadmap)
 - [Lovel](#lovel)
 - [Learn Git Branching](#learn-git-branching)
@@ -234,7 +234,7 @@ Conceitos de formatação, semântica, SEO e acessibilidade, ou seja, os 4 pilar
 
 <br>
 
-### [Pro GIT - Tudo que você precisa saber.pdf](https://github.com/mikaelmonteirodev/Team07DC-ClassCollection/files/9913715/Pro.GIT.-.Tudo.que.voce.precisa.saber.pdf)
+### [Pro GIT - Tudo que você precisa saber](https://github.com/mikaelmonteirodev/Team07DC-ClassCollection/files/9913715/Pro.GIT.-.Tudo.que.voce.precisa.saber.pdf)
 ![image](https://user-images.githubusercontent.com/112489130/199332653-3df7b788-50e2-4aaf-9750-a9fe7ab35ca4.png)
 ### O QUE É?
 Livrinho massa pra aprender GIT.
