@@ -7,8 +7,8 @@ Conjunto de conteúdos dados em sala de aula ou enviado por colegas durante o cu
 ### (Localize a postagem por aqui)
 
 - [MDX](#mdx)
-- [Vite](https://github.com/mikaelmonteirodev/acervo-team7#vite)
-- [React Docs](https://github.com/mikaelmonteirodev/acervo-team7#react-docs)
+- [Vite](#vite)
+- [React Docs](#react-docs)
 
 <hr>
 
