@@ -13,7 +13,7 @@ Conjunto de conteúdos dados em sala de aula ou enviado por colegas durante o cu
 - [Pexels](#pexels)
 - [Codepen](#codepen)
 - [Bootstrap](#bootstrap)
-- [TabNews](tabnews)
+- [TabNews](#tabnews)
 - [Regex101](#regex101)
 - [ESLint](#eslint)
 - [JSDoc](#jsdoc)
