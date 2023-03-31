@@ -17,7 +17,7 @@ Conjunto de conteúdos dados em sala de aula ou enviado por colegas durante o cu
 - [Regex101](#regex101)
 - [ESLint](#eslint)
 - [JSDoc](#jsdoc)
-- [Day.js](#day.js)
+- [Day JS](#day-js)
 - [Storybook](#storybook)
 - [ChatGPT](#chatgpt)
 - [Exercism.org](#exercism.org)
@@ -152,7 +152,7 @@ JSDoc é uma linguagem de marcação usada para anotar arquivos de código-fonte
 <br>
 
 
-### [Day.JS](https://day.js.org/en/)
+### [Day JS](https://day.js.org/en/)
 ![image](https://user-images.githubusercontent.com/112489130/216497951-58213137-474b-4395-a463-95146e66cde8.png)
 ### O QUE É?
 Day.js é uma biblioteca JavaScript minimalista que analisa, valida, manipula e exibe datas e horas para navegadores modernos com uma API amplamente compatível com Moment.js.
