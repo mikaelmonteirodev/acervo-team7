@@ -29,7 +29,7 @@ Conjunto de conteúdos dados em sala de aula ou enviado por colegas durante o cu
 - [Roadmap](#roadmap)
 - [Lovel](#lovel)
 - [Learn Git Branching](#learn-git-branching)
-- [Code.org](#code.org)
+- [Code-org](#code-org)
 - [FreeCodeCamp](#freecodecamp)
 - [Duolingo](#duolingo)
 - [MDN Web Docs](#mdn-web-docs)
@@ -275,7 +275,7 @@ Aplicativo desenvolvido para ajudar os iniciantes a aprender os poderosos concei
 
 <br>
 
-### [Code.org](https://studio.code.org)
+### [Code-org](https://studio.code.org)
 ![image](https://user-images.githubusercontent.com/112489130/200464624-82c8b427-9ea2-471e-9699-6acf81d7137d.png)
 ### O QUE É?
 Aprenda logica de programação por meio de jogos divertidos. Code.org® é uma organização sem fins lucrativos dedicada a expansão do acesso à ciência da computação. 
