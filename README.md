@@ -6,6 +6,7 @@ Conjunto de conteúdos dados em sala de aula ou enviado por colegas durante o cu
 # MENU
 ### (Localize a postagem por aqui)
 
+- [SliDev](#slidev)
 - [MDX](#mdx)
 - [Vite](#vite)
 - [React Docs](#react-docs)
@@ -33,6 +34,15 @@ Conjunto de conteúdos dados em sala de aula ou enviado por colegas durante o cu
 - [FreeCodeCamp](#freecodecamp)
 - [Duolingo](#duolingo)
 - [MDN Web Docs](#mdn-web-docs)
+
+<hr>
+
+<br>
+
+### [SliDev](https://br.sli.dev)
+![image](https://user-images.githubusercontent.com/112489130/229967703-a57673e8-0b94-4184-9bbe-b23b1576a514.png)
+### O QUE É?
+Slidev é uma ferramenta baseada em tecnologias web para criar e apresentar slides. O Slidev foi projetado para desenvolvedores focarem em escrever conteúdo em Markdown e ainda ter o poder do HTML e dos componentes do Vue para fornecer layouts e designs perfeitos com demonstrações interativas de suas apresentações.
 
 <hr>
 
