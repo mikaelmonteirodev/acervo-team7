@@ -39,6 +39,16 @@ Conjunto de conteúdos dados em sala de aula ou enviado por colegas durante o cu
 
 <br>
 
+### [Typescript](https://www.typescriptlang.org/pt/)
+![image](https://user-images.githubusercontent.com/112489130/230620641-cd6da3a1-5114-40ec-8bfd-bcb0c5a395df.png)
+### O QUE É?
+TypeScript é uma linguagem de programação de código aberto desenvolvida pela Microsoft. É um superconjunto sintático estrito de JavaScript e adiciona tipagem estática opcional à linguagem.
+
+[*Voltar ao menu.*](#menu)
+<hr>
+
+<br>
+
 ### [SliDev](https://br.sli.dev)
 ![image](https://user-images.githubusercontent.com/112489130/229967703-a57673e8-0b94-4184-9bbe-b23b1576a514.png)
 ### O QUE É?
