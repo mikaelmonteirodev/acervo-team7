@@ -6,6 +6,7 @@ Conjunto de conteúdos dados em sala de aula ou enviado por colegas durante o cu
 # MENU
 ### (Localize o assunto por aqui)
 
+- [Typescript](#typescript)
 - [SliDev](#slidev)
 - [MDX](#mdx)
 - [Vite](#vite)
