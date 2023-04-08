@@ -40,6 +40,16 @@ Conjunto de conteúdos dados em sala de aula ou enviado por colegas durante o cu
 
 <br>
 
+### [MDX Deck](https://github.com/jxnblk/mdx-deck)
+![image](https://user-images.githubusercontent.com/112489130/230730895-d72d445b-5827-4da6-9736-2b1c0213c189.png)
+### O QUE É?
+O MDX-Deck é um projeto open source hospedado no GitHub que nos permite montar apresentações incríveis usando a estrutura de MDX. O MDX, por sua vez, é a tecnologia que nos deixa usar JSX no Markdown.
+
+[*Voltar ao menu.*](#menu)
+<hr>
+
+<br>
+
 ### [Typescript](https://www.typescriptlang.org/pt/)
 ![image](https://user-images.githubusercontent.com/112489130/230620641-cd6da3a1-5114-40ec-8bfd-bcb0c5a395df.png)
 ### O QUE É?
