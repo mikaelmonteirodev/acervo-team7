@@ -3,8 +3,8 @@ Conjunto de conteúdos dados em sala de aula ou enviado por colegas durante o cu
 *(Collection of content given in the classroom or sent by colleagues during the Dev Fullstack course at Digital College - Team07)*
 <center> <img margin="auto" width="50%" src="https://user-images.githubusercontent.com/112489130/199324704-605a7e14-5dcb-412c-bd82-a8c6f4c87c24.gif"> </center>
 
-<hr>
-<br>
+<hr
+
 
 # MENU
 ### (Localize o assunto por aqui)
@@ -40,6 +40,16 @@ Conjunto de conteúdos dados em sala de aula ou enviado por colegas durante o cu
 - [Duolingo](#duolingo)
 - [MDN Web Docs](#mdn-web-docs)
 
+<hr>
+
+<br>
+
+### [Figma](https://www.figma.com)
+![image](https://user-images.githubusercontent.com/112489130/231038967-742a6136-f265-4e8e-b7d4-38b78433bbee.png)
+### O QUE É?
+Figma é um editor gráfico de vetor e prototipagem de projetos de design baseado principalmente no navegador web, com ferramentas offline adicionais para aplicações desktop para GNU/Linux, macOS e Windows.
+
+[*Voltar ao menu.*](#menu)
 <hr>
 
 <br>
