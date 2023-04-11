@@ -46,7 +46,7 @@ Conjunto de conteúdos dados em sala de aula ou enviado por colegas durante o cu
 <br>
 
 ### [Code Surfer](https://github.com/pomber/code-surfer)
-![image](https://user-images.githubusercontent.com/112489130/231175045-761190cd-36bc-4e6d-81c0-4cb62a531693.png)
+![image](https://user-images.githubusercontent.com/1911623/66186294-49bacc00-e658-11e9-8d73-e4e6d8df476b.gif)
 ### O QUE É?
 O Code Surfer adiciona realce de código, zoom de código, rolagem de código, foco de código, transformação de código e diversão aos slides do MDX Deck.
 
