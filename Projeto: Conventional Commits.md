@@ -41,4 +41,4 @@ Nos sites abaixo você pode encontrar mais detalhes sobre como funciona essa con
 - Depois disso o seu revisor deve Aprovar sua PR;
 - E pronto. Só isso 😄
 
-## Bom trabalho!
+# Bom trabalho!
