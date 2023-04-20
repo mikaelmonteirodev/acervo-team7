@@ -46,6 +46,16 @@ Conjunto de conteúdos dados em sala de aula ou enviado por colegas durante o cu
 
 <br>
 
+### [Styled Components](https://styled-components.com)
+![image](https://user-images.githubusercontent.com/112489130/233359090-df4a1b86-9d5e-4dcb-98dd-22138f61374b.png)
+### O QUE É?
+Styled Components é uma biblioteca de estilização para aplicações React que permite escrever CSS em JavaScript. Ele fornece uma maneira de criar componentes reutilizáveis ​​com estilos encapsulados que podem ser facilmente manipulados e atualizados dinamicamente. Em vez de separar estilos e componentes em diferentes arquivos, o Styled Components permite que os estilos sejam declarados diretamente no arquivo do componente. Isso torna o código mais legível, fácil de manter e aumenta a eficiência da renderização.
+
+[*Voltar ao menu.*](#menu)
+<hr>
+
+<br>
+
 ### [Code Surfer](https://github.com/pomber/code-surfer)
 ![image](https://user-images.githubusercontent.com/1911623/66186294-49bacc00-e658-11e9-8d73-e4e6d8df476b.gif)
 ### O QUE É?
