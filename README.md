@@ -9,6 +9,7 @@ Conjunto de conteúdos dados em sala de aula ou enviado por colegas durante o cu
 # MENU
 ### (Localize o assunto por aqui)
 
+- [Styled Components](#styled-components)
 - [Code Surfer](#code-surfer)
 - [Figma](#figma)
 - [MDX Deck](#mdx-deck)
