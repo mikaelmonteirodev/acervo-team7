@@ -51,7 +51,10 @@ Conjunto de conteúdos dados em sala de aula ou enviado por colegas durante o cu
 ### [Code Hike](https://code-hike.org)
 ![image](https://user-images.githubusercontent.com/112489130/235778397-76d2bfbc-0cbf-4203-9972-925dcce14c9e.png)
 ### O QUE É?
-Lorem Ipsum
+Code Hike é um plugin de nota para MDX. Isso ajudará você a exibir o código em seus sites. Exibir blocos de código, usando temas VS Code para realce de sintaxe e suporte para 134 linguagens de programação.
+Use componentes e anotações do Code Hike para aprimorar a experiência de leitura de código e abraçar a Web como o meio interativo que ela é.
+Estilos padrão de boa aparência. Personalizável usando CSS.
+E sempre mantendo a sintaxe MDX o mais próximo possível da marcação para uma melhor experiência de autoria .
 
 [*Voltar ao menu.*](#menu)
 <hr>
