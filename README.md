@@ -49,7 +49,7 @@ Conjunto de conteúdos dados em sala de aula ou enviado por colegas durante o cu
 <br>
 
 ### [Code Hike](https://code-hike.org)
-IMAGE
+![image](https://user-images.githubusercontent.com/112489130/235778397-76d2bfbc-0cbf-4203-9972-925dcce14c9e.png)
 ### O QUE É?
 Lorem Ipsum
 
