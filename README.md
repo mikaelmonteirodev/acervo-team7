@@ -10,6 +10,7 @@ Conjunto de conteúdos dados em sala de aula ou enviado por colegas durante o cu
     
 ### (Localize o assunto por aqui)
 
+- [Code Hike](#code-hike)
 - [Styled Components](#styled-components)
 - [Code Surfer](#code-surfer)
 - [Figma](#figma)
