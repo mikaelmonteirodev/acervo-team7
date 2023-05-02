@@ -49,7 +49,7 @@ Conjunto de conteúdos dados em sala de aula ou enviado por colegas durante o cu
 
 <br>
 
-### [Code Hike](https://code-hike.org)
+### [Code Hike](https://codehike.org)
 ![image](https://user-images.githubusercontent.com/112489130/235778397-76d2bfbc-0cbf-4203-9972-925dcce14c9e.png)
 ### O QUE É?
 Code Hike é um plugin de nota para MDX. Isso ajudará você a exibir o código em seus sites. Exibir blocos de código, usando temas VS Code para realce de sintaxe e suporte para 134 linguagens de programação.
