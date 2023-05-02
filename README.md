@@ -48,6 +48,16 @@ Conjunto de conteúdos dados em sala de aula ou enviado por colegas durante o cu
 
 <br>
 
+### [Code Hike](https://code-hike.org)
+IMAGE
+### O QUE É?
+Lorem Ipsum
+
+[*Voltar ao menu.*](#menu)
+<hr>
+
+<br>
+
 ### [Styled Components](https://styled-components.com)
 ![image](https://user-images.githubusercontent.com/112489130/233359090-df4a1b86-9d5e-4dcb-98dd-22138f61374b.png)
 ### O QUE É?
