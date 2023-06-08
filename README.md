@@ -7,8 +7,11 @@ Conjunto de conteúdos dados em sala de aula ou enviado por colegas durante o cu
 <hr>
 
 # MENU
-    
-### (Localize o assunto por aqui)
+
+<details>
+<summary>Localize o assunto por aqui</summary>
+
+###
 
 - [Nodemon](#nodemon)
 - [Code Hike](#code-hike)
@@ -45,6 +48,8 @@ Conjunto de conteúdos dados em sala de aula ou enviado por colegas durante o cu
 - [FreeCodeCamp](#freecodecamp)
 - [Duolingo](#duolingo)
 - [MDN Web Docs](#mdn-web-docs)
+
+</details>
 
 <hr>
 
