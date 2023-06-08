@@ -10,6 +10,7 @@ Conjunto de conteúdos dados em sala de aula ou enviado por colegas durante o cu
     
 ### (Localize o assunto por aqui)
 
+- [Nodemon](#nodemon)
 - [Code Hike](#code-hike)
 - [Styled Components](#styled-components)
 - [Code Surfer](#code-surfer)
@@ -45,6 +46,17 @@ Conjunto de conteúdos dados em sala de aula ou enviado por colegas durante o cu
 - [Duolingo](#duolingo)
 - [MDN Web Docs](#mdn-web-docs)
 
+<hr>
+
+<br>
+
+
+### [Nodemon](https://www.npmjs.com/package/nodemon)
+![image](https://media.licdn.com/dms/image/D4D12AQEoBrYy7HHViQ/article-cover_image-shrink_600_2000/0/1680351869114?e=1691625600&v=beta&t=IFsC2kX0IlqQqHza88yDt-trs-yseSf_N4EnshXFGXM)
+### O QUE É?
+O Nodemon é um utilitário que monitora as mudanças nos arquivos do seu projeto e reinicia automaticamente o servidor Node.js quando necessário. Assim, você não precisa parar e iniciar o servidor manualmente a cada modificação.
+
+[*Voltar ao menu.*](#menu)
 <hr>
 
 <br>
