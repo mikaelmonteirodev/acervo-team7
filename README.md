@@ -13,6 +13,7 @@ Conjunto de conteúdos dados em sala de aula ou enviado por colegas durante o cu
 
 ###
 
+- [Cypress](#cypress)
 - [Nodemon](#nodemon)
 - [Code Hike](#code-hike)
 - [Styled Components](#styled-components)
@@ -51,6 +52,17 @@ Conjunto de conteúdos dados em sala de aula ou enviado por colegas durante o cu
 
 </details>
 
+<hr>
+
+<br>
+
+
+### [Cypress](https://www.cypress.io)
+![image](https://github.com/mikaelmonteirodev/acervo-team7/assets/112489130/1fb63519-7da4-4a22-b72b-1813784a18ec)
+### O QUE É?
+Com o Cypress, você pode facilmente criar testes para seus aplicativos da Web modernos, depurá-los visualmente e executá-los automaticamente em suas compilações de integração contínua.
+
+[*Voltar ao menu.*](#menu)
 <hr>
 
 <br>
