@@ -13,6 +13,7 @@ Conjunto de conteúdos dados em sala de aula ou enviado por colegas durante o cu
 
 ###
 
+- [Sequelize](#sequelize)
 - [Cypress](#cypress)
 - [Nodemon](#nodemon)
 - [Code Hike](#code-hike)
@@ -52,6 +53,17 @@ Conjunto de conteúdos dados em sala de aula ou enviado por colegas durante o cu
 
 </details>
 
+<hr>
+
+<br>
+
+
+### [Sequelize](https://sequelize.org)
+![image](https://github.com/mikaelmonteirodev/acervo-team7/assets/112489130/cfe93fbc-314d-4115-8f7b-c90bec8a4322)
+### O QUE É?
+O Sequelize é um ORM, ou seja, um mapeador objeto-relacional. Isso significa que ele permite que você crie modelos (classes) em TypeScript ou JavaScript que representam as tabelas do seu banco de dados. Assim, você pode manipular os dados usando objetos e métodos, sem precisar escrever SQL diretamente.
+
+[*Voltar ao menu.*](#menu)
 <hr>
 
 <br>
