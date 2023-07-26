@@ -13,6 +13,7 @@ Conjunto de conteúdos dados em sala de aula ou enviado por colegas durante o cu
 
 ###
 
+- [Render](#render)
 - [Sequelize](#sequelize)
 - [Cypress](#cypress)
 - [Nodemon](#nodemon)
@@ -53,6 +54,17 @@ Conjunto de conteúdos dados em sala de aula ou enviado por colegas durante o cu
 
 </details>
 
+<hr>
+
+<br>
+
+
+### [Render](https://render.com)
+![image](https://github.com/mikaelmonteirodev/acervo-team7/assets/112489130/d2038ab4-91cc-4177-a10f-a51e3120f2a4)
+### O QUE É?
+O Render é uma plataforma de hospedagem de aplicativos em nuvem que facilita a implantação de aplicativos web e de back-end. O Render oferece uma variedade de recursos que tornam a implantação de aplicativos rápida e fácil, incluindo: Escalabilidade automática; Integração com GitHub; Preços flexíveis; Entre outros.
+
+[*Voltar ao menu.*](#menu)
 <hr>
 
 <br>
